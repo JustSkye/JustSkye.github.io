@@ -1,0 +1,20 @@
+<rss version="2.0">
+    <channel>
+        <title>The blog of Skye</title>
+        <description>
+            The blog of Skye, a dude from Finland.
+        </description>
+        <link>https://JustSkye.github.io/</link>
+        <ttl>120</ttl>
+        <atom:link href="https://JustSkye.github.io/blog/blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>This website. Also my first blog post help</title>
+            <description>
+                I don't really know what I'm doing... I have never written a blog post before.
+            </description>
+            <link>https://JustSkye.github.io/blog/20210226</link>
+            <guid isPermaLink="true">https://JustSkye.github.io/blog/20210226</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
