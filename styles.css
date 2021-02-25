@@ -1,9 +1,12 @@
-pre { margin: 0; overflow-x: hidden; }
-.col { display: table-cell; max-width: 80ch; }
-.nav {
+body { background: #2e3440; color: white}
+pre { margin: 0; overflow-x: hidden;}
+a:link, a:visited { color: #c97799; text-decoration: underline; }
+a:link:active, a:visited:active { color: #c97799; }
+.con { display: table-cell; max-width: 80ch; }
+.nav { display: table-cell; max-width: 20ch; }
+.navi {
     top: 0;
     position: sticky;
     user-select: none;
     padding-right: 64px;
 }
-
